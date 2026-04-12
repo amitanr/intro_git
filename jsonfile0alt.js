@@ -3,7 +3,7 @@ const item_origin = {
         "attribute1": 1,
         "attribute2": "Hello",
         "attribute3": true,
-        "array": ["1", "Hello", "TRUE", "レンタルサーバー"]
+        "array": ["1", "Hello", "TRUE", "git"]
     },
     "item1": {
         "attribute1": 2,
